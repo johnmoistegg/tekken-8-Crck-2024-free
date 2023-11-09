@@ -33,8 +33,9 @@ traffic_factor = 5  # Random traffic factor affecting delivery speed
 for i in range(num_markets):
     delivery_speed = simulate_delivery_speed(
         base_delivery_speed, traffic_factor)
-    delivery_time = rice_distribution[i] / delivery_speed
+    delivery_time_seconds = rice_distribution[i] / delivery_speed
+    delivery_time_minutes = delivery_time_seconds / 60  # Convert to minutes
     print(
-        f"Market {i + 1}: {rice_distribution[i]} kg, Delivery Speed: {delivery_speed:.2f} kg/s, Delivery Time: {delivery_time:.2f} seconds")
+        f"Market {i + 1}: {rice_distribution[i]} kg, Delivery Speed: {delivery_speed:.2f} kg/s, Delivery Time: {delivery_time_minutes:.2f} minutes")
 
 print(f"\nTotal Distributed Rice: {sum(rice_distribution)} kg")

